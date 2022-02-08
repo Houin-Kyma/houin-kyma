@@ -12,4 +12,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-0C4B33?style=for-the-badge&logo=jupyter)
 
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-0C4B33?style=for-the-badge&logo=telegram)](https://t.me/hinkyma)
+[![Facebook](https://img.shields.io/badge/-Facebook-0C4B33?style=for-the-badge&logo=facebook)](https://www.facebook.com/hin.kyma)
+[![Instagram](https://img.shields.io/badge/-Instagram-0C4B33?style=for-the-badge&logo=instagram)](https://www.instagram.com/tema_cvai/)
